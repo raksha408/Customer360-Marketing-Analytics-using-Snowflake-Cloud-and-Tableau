@@ -128,10 +128,8 @@ All visuals were built using Snowflake as the live data source.
 
 ##  Author
 
-**Shriraksha**  
+**Shriraksha Kulkarni**  
 Data Analyst | SQL | Snowflake Cloud | Tableau
 
 ---
 
-
-Just tell me!
