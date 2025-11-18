@@ -99,7 +99,7 @@ This is a practical demonstration of **end-to-end data analytics workflow**.
 
 ---
 
-##  Dataset Summary (`marketing_campaign_fixed.csv`)
+##  Dataset Summary
 
 The dataset includes fields such as:
 
@@ -114,7 +114,7 @@ Total Customers: **2,240**
 
 ---
 
-##  SQL Analysis (Stored in `MASTER_QUERIES.sql`)
+##  SQL Analysis
 
 The SQL file contains all queries, including:
 
@@ -132,7 +132,7 @@ Each query was executed in Snowflake Cloud successfully.
 
 ---
 
-##  Tableau Dashboard (Stored in `Tableau_pdf.pdf`)
+##  Tableau Dashboard 
 
 The Tableau dashboard includes:
 
