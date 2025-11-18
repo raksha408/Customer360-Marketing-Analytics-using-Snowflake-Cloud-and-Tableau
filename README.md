@@ -1,12 +1,11 @@
 #  Customer360 – Marketing Analytics using Snowflake Cloud & Tableau
-### End-to-End Data Analytics Project (SQL + Cloud + Dashboarding)
 
 This project performs a complete Customer 360 Marketing Analysis using **Snowflake** for cloud data warehousing and **Tableau** for visual analytics.  
 All SQL logic, dataset, and dashboard outputs are included in this repository.
 
 ---
 
-##  Repository Contents (Descriptive)
+##  Repository Contents 
 
 This repository contains three main project files:
 
