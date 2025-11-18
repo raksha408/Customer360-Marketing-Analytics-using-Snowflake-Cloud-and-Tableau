@@ -5,6 +5,58 @@ All SQL logic, dataset, and dashboard outputs are included in this repository.
 
 ---
 
+##  Introduction
+
+The Customer360 Marketing Analytics project focuses on understanding customer behavior using modern cloud data warehousing and business intelligence tools.  
+By leveraging **Snowflake** for scalable data processing and **Tableau** for dynamic visualizations, this project provides actionable insights into customer demographics, spending patterns, product preferences, engagement levels, and campaign performance.
+
+The goal is to demonstrate a real-world, end-to-end data analytics workflow—from raw data ingestion to clean visual storytelling—using tools widely adopted in the industry.
+
+---
+
+##  Objectives
+
+This project was designed with the following core objectives:
+
+- **Integrate and prepare customer marketing data** using Snowflake Cloud.
+- **Apply analytical SQL queries** to explore, segment, and summarize customer behavior.
+- **Identify key customer attributes**, purchasing patterns, and marketing responsiveness.
+- **Create rich, interactive Tableau dashboards** for decision-making insights.
+- **Showcase end-to-end analytics skills** (ETL, SQL, Cloud, BI visualization) for portfolio and professional demonstrations.
+
+---
+
+##  Scope of the Project
+
+The scope of this project includes the following:
+
+### **1. Data Ingestion & Storage (Snowflake Cloud)**  
+- Uploading the cleaned dataset (`marketing_campaign_fixed.csv`) into Snowflake  
+- Creating tables and preparing the Customer360 data environment  
+
+### **2. Data Transformation & Querying**  
+- Performing data cleaning through SQL  
+- Running analytical queries around demographics, spending, engagement, and campaign performance  
+- Creating calculated fields such as **Age Group**, **Total Spend**, and **Engagement Score**
+
+### **3. Customer Insight Generation**  
+- Understanding income distribution  
+- Identifying high-value customers  
+- Analyzing product category preferences  
+- Evaluating marketing campaign acceptance patterns  
+
+### **4. Visualization & Reporting (Tableau)**  
+- Connecting Tableau to Snowflake  
+- Designing dashboards and worksheets  
+- Exporting dashboards as PDF for review  
+
+### **5. Documentation & Delivery**  
+- Preparing SQL scripts (`MASTER_QUERIES.sql`)  
+- Exporting Tableau dashboards (`Tableau_pdf.pdf`)  
+- Organizing the GitHub repository with dataset and readable project documentation
+
+---
+
 ##  Repository Contents 
 
 This repository contains three main project files:
